@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_eef03773d382ea036a3f29a5369d6b30fef40c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_11a28c74a53821ac726aa9ae37d6c7678574dbd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_cbb3f16ffb779b3ee69d4e10e1d349221aceeeea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_6122c79053fa6c8da26af06b230c7aef041042c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_44b2a3e5e8b4b00616fd29ee7b77d93c18d4e412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_7f0edef0a65b630a06b23b0cd4cf3528e5b0aed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_8726cc1ae0251f0c56e3490c5a9c4cfcd9b3350e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_9a8a3549fa90b68c44bfd77eab7c887d70674bf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_eb64f4d652a9956e3d4f85609fc508a98bc0160f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_6eb311ab7ec904c668672f1929ce147e5ad96ac9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_14ebcc942ed6d3b1e03143fa45f100fefdb3bbd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_f129494c167e1183f5a8d05dd6d12afbaeb7aa28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_1f5c5239e45575ddb1b2456f54cd254193fa48df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="427c0aa6cdff54ef878ec096a625f4b61d880bca">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_93587a2c9152347e1ba0b53f4301b5f118b144c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_e396ecea141852652acab98dc6940bab6c351325\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_d62fdcfcfd5f94ba507b95cc4a4d254f88242df4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3183f4755b72e50455afcbb51ca4cca43c807a96">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_79eef07eea8523bde99dbd7f627bdbd3a72422b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_4b39895310e1895e660afb28abbef5fd9459126e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_7611d909bc2411494232afebd4f240d2dfc64f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_ddd321e71e4dee521d570b8ef43082776719138d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_652d8b37af308c1bae3117c8baeebcba848c4a54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_0c608fb3dec285e1eb0c13c541b35c733280c2e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_1284df0a8d901ea23cf61e825e686e088a31a42d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_db67ed30aea0e273c91b4080a232bb6f85b14962\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_f5af3f1de55519d4ca78df2f8b9c61c934409f14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_26e197a7867d8ad134804d5c84fc0846572d8124\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_01db7e5d49a742c388298eeb64bd197d8a7c83b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_2a03a175274de06ee39b0b701e08ea225fc5f208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_7bf353da5afec5c6abf01f7aa2138192ff46a40c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_4b7eaad2360bf54201e1c825ba679d8b09c8c524\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_d3e7701d02939431c66bcf9e718b0340fac2c8d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_fdd8c9a86efc63cc305e023bdf165b361dc10c7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_26770508acc14b03f33355ffce54407896633914\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_080f1abc41d880d2bcdecca215cbcceab124c499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_8feba1c544d7faf3c04e36d4363ef92e1e60e5c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_9683a909848fbb2e6b36b88a700d53da2c4e434e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_a3e2677a3276d6a4ca99c90c5e339ee10e6452df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_043f43dadbb8f4816e6edc7f23c8e0e945ba442d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_e5ed5f5bbc0400be0c09777b3ddfc089d6506cfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_a2d7b4a148718a3c7184478005a4f8e65d98e3c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_62fba1e114619c4b5aff54526933486141e54b45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_74fbeb6bcfde6bf4dae86bb11bcf4d832a07a61e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_ce0963237d421148c58aa79fc554a80ec40ac0f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.1.0_05a7584c5da8bd89ca1aa3aee3a2151364002800\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_7309cd1f9b3167af25a92fbf330d681b6f0dc8c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_5e42b3d5815f2abeb384d908ac74988ed575069b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_d0fdd1a50376471dda5b4c3896a121d5410e6932\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_413fe3d2aaa02237c0bdfe59839c9e19497e7ba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_c900eefe452e9bacf920b0d9071bff42d40b3aeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_939dc9abdda0245168362dccbaf6e1623d97b61e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_72c9517d04e3d0dd85ec9c46199f3c0b6072f735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_26a6f314e7b3ecadde3a56c22527d060c2302d87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_252ec520210125de47eb0fb44e0fda4a9fd24a1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_6b3975874673181da9e9b20b291d196cac3d6953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_ce65bcea7949727fd11325c01179c45c0262ee42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_b3ee4ebd94913373390b1eae9c1e84024aaaf226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_e07aa6522c871389fe5799e0de66c1ae32a25972\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_18abc2ef41bec060c6c872447e4e5df44af3fa58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_1a471e556a2b41a00de060d6e677728efc3f74a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_2c2385110e9841f8de0ad67f7eee432ad811e56a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_ab35c890356e48aeda6392c1615b79c55ae8160e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_e74d405d25f4b0bbdb73467c5b55d4c00cb9b0c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_d8739f7d9daff74d9bb54c26925570320f15affc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\2.0.0-beta2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2bcb7c0e6418b3fe8af00a93e32c3518cb9c271">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.support-wearable-2.0.0-beta2_9cdc787676a75441c53e47705118af520df503d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_985712f1dc5ef347973b0f8a963492ca21ee29f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_2c8212628873b8b0d01edd0ebec87967f8cedc57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1859dc02d23d57a304870fa96f8d6b84419abdf1">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eac22cd43b094de92856024f6238b10585866615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.android.support\percent\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-23.0.1_323d8d0bd202b42fc48f8736d4cf3d3c7c821ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_9740332affe7afa3157617f5a91a15e41882476b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_483d187fd152795bd2831e8efd63db0ff82a8b78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_66d683b9f6185d0def4253f89dfc49c3b25762ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_a8702964381eaa48e3720d5bac1d7bd6886a67cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_bf01db8d90445814aee718caf912cf3fc4d69c14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_7fadfe94c4c2d5ee1d2b18fab6bebdc63e0c32b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_90265b5cf2d06355de67b71255d0d84ad10eb042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab49c6353df1478de5d731563a8be8fbbe7e38a5">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae5a7f759996f1849cc327c72cc4bd1e08591a79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_5c8b15fad3922c1c01757d0c7bac460c72d75ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Karol\Documents\WatchFace\MyApplication2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_8e3eeeba0b60b01ce007091720ed6a3832dddc35\classes.dex" />
+    </item>
+
+</items>
